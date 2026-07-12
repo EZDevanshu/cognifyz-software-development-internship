@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="Task01_TextGame/Task01_TextGame.csproj" />
+  <Project Path="Task_02_NumberPattern/Task_02_NumberPattern.csproj" Id="f4612536-d73d-46b6-8495-eb5d56c2dd8a" />
 </Solution>
