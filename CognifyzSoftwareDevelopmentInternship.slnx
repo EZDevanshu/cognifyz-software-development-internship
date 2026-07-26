@@ -1,6 +1,7 @@
 <Solution>
-  <Project Path="Task01_TextGame/Task01_TextGame.csproj" />
+  <Folder Name="/outputs/" />
+  <Project Path="Task_01/Task_01.csproj" Id="eba7ce6d-6999-4c87-9d10-b0d6e6e6647b" />
   <Project Path="Task_02_NumberPattern/Task_02_NumberPattern.csproj" Id="f4612536-d73d-46b6-8495-eb5d56c2dd8a" />
-  <Project Path="Task_03/Task_03_TaskManager.csproj" Id="79add0d1-39ed-4999-991d-3b3daffb7f36" />
+  <Project Path="Task_03/Task_03.csproj" Id="4bbd20d7-ad81-458c-9088-30fbcc934615" />
   <Project Path="Task_04_Temperature_Converter/Task_04_Temperature_Converter.csproj" Id="180a99cf-7884-4b1c-b48c-73d2fb8bd1f3" />
 </Solution>
